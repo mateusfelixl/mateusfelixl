@@ -10,14 +10,10 @@ Busco oportunidades de estágio ou como desenvolvedor júnior para aplicar meus 
 ---
 ### 📊 Minhas Estatísticas no GitHub
 
-<div align="center">
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateusfelixl&layout=compact&langs_count=7&theme=dark&count_private=true"/>
   <a href="https://github.com/mateusfelixl">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=mateusfelixl&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateusfelixl&layout=compact&langs_count=7&theme=dark&count_private=true"/>
   </a>
-  <a href="https://github.com/mateusfelixl">
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateusfelixl&layout=compact&langs_count=7&theme=dark"/>
-  </a>
-</div>
 
 ---
 
