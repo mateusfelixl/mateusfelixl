@@ -26,7 +26,7 @@ Busco oportunidades de estágio ou como desenvolvedor júnior para aplicar meus 
 * 🎓 Cursando **Análise e Desenvolvimento de Sistemas** na Faculdade FICR (2024-2026).
 * 💻 Foco atual em **Python**, **Automação** (Selenium, PyAutoGUI) e **Desenvolvimento Web**.
 * 🔧 Tenho conhecimentos em **Java (POO)**, **SQL (MySQL)**, **Git/GitHub** e noções de **SAP** (FI, SD, MM).
-* 💼 Atualmente atuando como **Jovem Aprendiz Administrativo** na Maravilha Motos (desde Ago/2024).
+* 💼 Atualmente atuando como **Jovem Aprendiz Administrativo** na Maravilha Motos.
 
 ---
 
