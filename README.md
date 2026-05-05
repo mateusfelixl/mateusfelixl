@@ -11,10 +11,10 @@ Residindo na região metropolitana do Recife, busco oportunidades locais ou remo
 
 <div align="center">
   <a href="https://github.com/mateusfelixl">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=mateusfelixl&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub"/>
+    <img height="180" src="https://github-readme-stats.vercel.app/api?username=mateusfelixl&show_icons=true&theme=dark&include_all_commits=true" alt="Estatísticas do GitHub"/>
   </a>
   <a href="https://github.com/mateusfelixl">
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateusfelixl&layout=compact&langs_count=7&theme=dark&count_private=true" alt="Linguagens mais usadas"/>
+    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateusfelixl&layout=compact&langs_count=7&theme=dark" alt="Linguagens mais usadas"/>
   </a>
 </div>
 
@@ -48,11 +48,8 @@ Residindo na região metropolitana do Recife, busco oportunidades locais ou remo
 
 ### 📂 Meus Principais Projetos
 
-* **Gestão de Demandas DP (C# / .NET):** *(Em desenvolvimento)*
+* **Gestão de Demandas DP (C# / .NET / Angular):** *(Em desenvolvimento)*
   * Sistema focado em gerenciar, automatizar e otimizar as rotinas de Departamento Pessoal. Construído a partir de necessidades vivenciadas na prática do setor corporativo, visando controle eficiente e escalabilidade.
-
-* **Analista Financeiro (Python / Laravel):**
-  * Sistema de automação e coleta de dados focado em análise de mercado. Utiliza rotinas em Python para extrair informações financeiras e de mercado, servindo os relatórios e a gestão do conteúdo através de uma aplicação web estruturada em Laravel (PHP).
 
 * **🛡️ Galactic Knight: Monster Hunter (Python / PgZero):**
   * Um jogo de plataforma 2D ágil e focado em exploração. Desenvolvido puramente em Python utilizando a biblioteca Pygame Zero, implementando mecânicas de combate, movimentação fluida e design de níveis.
